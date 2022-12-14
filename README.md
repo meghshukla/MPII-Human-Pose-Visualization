@@ -11,9 +11,9 @@ Before executing the notebook, download and paste all the MPII images ```*.jpg``
 _Important!_: This remains my most cloned repository, so if you find it useful please do consider starring! <br>
 Please feel free to browse through my latest work on Active Learning for Human Pose Estimation:
 
-[VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation](https://bmvc2022.mpi-inf.mpg.de/610/)
-[Bayesian Uncertainty and Expected Gradient Length - Regression: Two Sides of the Same Coin?](https://openaccess.thecvf.com/content/WACV2022/html/Shukla_Bayesian_Uncertainty_and_Expected_Gradient_Length_-_Regression_Two_Sides_WACV_2022_paper.html)
-[A Mathematical Analysis of Learning Loss for Active Learning in Regression](https://openaccess.thecvf.com/content/CVPR2021W/TCV/papers/Shukla_A_Mathematical_Analysis_of_Learning_Loss_for_Active_Learning_in_CVPRW_2021_paper.pdf)
+[VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation](https://bmvc2022.mpi-inf.mpg.de/610/) <br>
+[Bayesian Uncertainty and Expected Gradient Length - Regression: Two Sides of the Same Coin?](https://openaccess.thecvf.com/content/WACV2022/html/Shukla_Bayesian_Uncertainty_and_Expected_Gradient_Length_-_Regression_Two_Sides_WACV_2022_paper.html) <br>
+[A Mathematical Analysis of Learning Loss for Active Learning in Regression](https://openaccess.thecvf.com/content/CVPR2021W/TCV/papers/Shukla_A_Mathematical_Analysis_of_Learning_Loss_for_Active_Learning_in_CVPRW_2021_paper.pdf) <br>
 
 If you found this code useful, please consider citing _all_ three publications (it doesn't cost anything) :D
 Also, **_feedback is welcome!_**
@@ -51,6 +51,3 @@ url       = {https://bmvc2022.mpi-inf.mpg.de/0610.pdf}
   doi={10.1109/CVPRW53098.2021.00370}}
 
 ```
-
-
-
